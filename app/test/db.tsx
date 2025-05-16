@@ -14,14 +14,14 @@ export default function DBTestScreen() {
 
   return (
     <View className="flex-1 items-center justify-center bg-white">
-      <Text className="text-lg mb-4 text-green-950">Pantalla de test de Firestore</Text>
+      <Text className="text-lg mb-4 text-green-950">Bynfi se la come</Text>
 
       <TouchableOpacity
         onPress={handleTest}
         className="bg-black px-6 py-3 rounded-md"
       >
         <Text className="text-white text-base text-center">
-          Guardar 10 en Firestore
+          Aceptar
         </Text>
       </TouchableOpacity>
     </View>
