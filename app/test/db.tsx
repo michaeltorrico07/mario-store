@@ -21,7 +21,7 @@ export default function DBTestScreen() {
         className="bg-black px-6 py-3 rounded-md"
       >
         <Text className="text-white text-base text-center">
-          Aceptar
+          Mayonesa
         </Text>
       </TouchableOpacity>
     </View>
